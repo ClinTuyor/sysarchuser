@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ClinTuyor/sysarchuser#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
   }
 }
